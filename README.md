@@ -1,0 +1,1 @@
+It is a simple calculator file bash script used in Linux to perform the arithmentic calculations. Tried to perform the basic usage of functions ,case and argument acceptance through function while execution.
